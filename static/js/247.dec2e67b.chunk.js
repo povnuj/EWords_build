@@ -1,0 +1,3 @@
+/*! For license information please see 247.dec2e67b.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkenglish_words_learning=self.webpackChunkenglish_words_learning||[]).push([[247],{247:(e,n,t)=>{t.r(n),t.d(n,{startStatusTap:()=>i});var s=t(108),r=t(721),o=t(384);const i=()=>{const e=window;e.addEventListener("statusTap",(()=>{(0,s.gv)((()=>{const n=e.innerWidth,t=e.innerHeight,i=document.elementFromPoint(n/2,t/2);if(!i)return;const a=(0,r.a)(i);a&&new Promise((e=>(0,o.c)(a,e))).then((()=>{(0,s.bN)((async()=>{a.style.setProperty("--overflow","hidden"),await(0,r.s)(a,300),a.style.removeProperty("--overflow")}))}))}))}))}}}]);
+//# sourceMappingURL=247.dec2e67b.chunk.js.map
